@@ -1,4 +1,4 @@
-# Arduino mega robot arm  
+# Arduino mega robot arm[won't update anymore]  
 ### Introduction
 * Arduino based robot arm code  
 * Practicing git  
