@@ -1,10 +1,5 @@
-# Arduino mega robot arm[won't update anymore]  
+# Arduino Robot Arm [won't update anymore]  
 ### Introduction
-* Arduino based robot arm code  
-* Practicing git  
-
-### Environment
-* Win10  
-* Arduino IDE  
-
-Author: Jerry Cheng
+* Arduino based robot arm code for Teaching Assistant course.  
+* Arduino MEGA 2560 + HCTL-2032 decoder + L298N motor driver.  
+* PID & Fuzzy control + T-curve.  
